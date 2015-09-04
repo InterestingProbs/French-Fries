@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 /**
  * Check if two elements in the array sum up to a specific value
- * @author 
+ * @author copied from internet
  *
  */
 public class Solution{

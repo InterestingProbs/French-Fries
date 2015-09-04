@@ -43,10 +43,10 @@ public class PangramSolution {
         }
         if(values.size() == 1){
         	if(value == 1){
-            	System.out.println("pangram");        		
+                System.out.println("pangram");        		
         	}
         	if(value > 1){
-            	System.out.println("multiple pangram " + value);        		    		
+                System.out.println("multiple pangram " + value);        		    		
         	}
         }
         else{
